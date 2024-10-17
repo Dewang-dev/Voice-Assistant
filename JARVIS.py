@@ -131,7 +131,7 @@ if __name__ == "__main__":
         
         elif 'open online music' in query:
             speak("Opening your o Music playlist, Sire!")
-            playlist_url = "https://music.youtube.com/playlist?list=PLKPOMFL6VZaHV2VzJVDjb6y2I7eGYSqId"
+            playlist_url = "https://music.youtube.com/playlist?list=PLKPOMFL6VZaHV2VzJVDjb6I7eGYSqId"
             webbrowser.open(playlist_url) 
         
         elif 'the time' in query:
